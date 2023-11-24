@@ -1,7 +1,6 @@
 <html>
 
-<h1> Hola Mundo </h1>
-Esta web va sobra alimentos
-
+<iframe> Esta es una tabla dinamica con una serie de parámetros
+</iframe>
 
 </html>
